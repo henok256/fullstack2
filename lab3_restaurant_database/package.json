@@ -1,0 +1,17 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "node js, express, mongodb, and mongoose application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "md",
+    "mongoose"
+  ],
+  "author": "henok",
+  "license": "ISC"
+}
